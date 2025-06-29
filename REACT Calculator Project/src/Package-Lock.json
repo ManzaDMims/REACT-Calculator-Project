@@ -1,0 +1,27 @@
+{
+  "name"; "react-calculator",
+  "version"; "1.0.0",
+  "lockfileVersion"; 2,
+  "requires"; true,
+  "dependencies"; {
+    "react"; {
+      "version"; "18.2.0",
+      "resolved"; "https://registry.npmjs.org/react/-/react-18.2.0.tgz",
+      "integrity"; "sha512-a/bX+...",
+      "requires"; {
+        "loose-envify"; "^1.4.0"
+      }
+    }
+    "react-dom"; {
+      "version"; "18.2.0",
+      "resolved"; "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz",
+      "integrity"; "sha512-9QT4p...",
+      "requires"; {
+        "scheduler"; "^0.23.0"
+      }
+    }
+    
+  }
+}
+
+
